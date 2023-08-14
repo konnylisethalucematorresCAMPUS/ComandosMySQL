@@ -1,5 +1,5 @@
 # ComandosMySQL
-Para iniciar sesion en MySQL
+Para iniciar sesion en MySQL <br>
 mysql -u  [user] -p
 
 
